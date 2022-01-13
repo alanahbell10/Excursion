@@ -51,3 +51,12 @@ body {
       color:aquamarine;
       font-size: 16px;
   }
+
+  footer {
+    text-align: right;
+    color: gray;
+    font-family: Verdana;
+    font-size: 15px;
+    font-weight: normal;
+
+  }
