@@ -35,14 +35,16 @@ body {
       display:block;
       margin-left: auto;
       margin-right: auto;
-      width: 50%;
+      width: 100%;
   }
 
   .phone {
     display:block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 5%;
+    height: 5%;
+    
 }
 
   .link {
